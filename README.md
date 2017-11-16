@@ -1,7 +1,7 @@
 # Neural-Net-Vizualization
 Visualization of neural networks weights
 
-How can we vizualize weights in high-dimensional, iterative, predictive algorithms? I use “vanilla”, or single hidden layer network as an example. To illustrate the power neural net vizualization, I simulate data with a vector of Y, 20×100,000 matrix of X, 1 hidden layer, and 20 nodes.
+How can we vizualize weights in high-dimensional, iterative, predictive algorithms? I use “vanilla”, or single hidden layer network as an example. To illustrate the power neural net vizualization, I simulate data with a vector of Y, 20×100,000 matrix of X, 1 hidden layer, and 20 nodes. This example is in file "nn_vizualization".
 
 First, heat map representation could be a good choice. In addition, I use clustering to improve the visualization of heat map. This heatmap is presented in "heatmap" file.
 
